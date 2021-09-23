@@ -1,7 +1,5 @@
 ### Hi there, I'm speed 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning ...Machine Learning, Physics, Computer Science, etc.
 
 <a href="https://github.com/speed1313">
