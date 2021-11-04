@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning ...Machine Learning, Physics, Computer Science, etc.
 
-<a href="https://github.com/speed1313">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=speed1313&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/speed1313">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=speed1313" />
-</a>
+![speed1313's github stats](https://github-readme-stats.vercel.app/api?username=speed1313&show_icons=false&theme=material-palenight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speed1313&hide=php&layout=compact&theme=material-palenight)
+
