@@ -6,3 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speed1313&hide=php&layout=compact&theme=material-palenight)
 
+
+
+
+## Personal note.
+- write README carefully.
+- take notes frequently. 
+- commit size must be small.
