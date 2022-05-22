@@ -8,7 +8,12 @@
 
 
 
-## Personal note.
-- write README carefully.
-- take notes frequently. 
-- commit size must be small.
+> **Note**
+> 
+> personal note
+> - write README carefully.
+> - take notes frequently. 
+> - commit size must be small.
+
+
+
